@@ -1,0 +1,8 @@
+ch/finecloud/restbrewery/domain/Beer.class
+ch/finecloud/restbrewery/repositories/BeerRepository.class
+ch/finecloud/restbrewery/domain/Customer.class
+ch/finecloud/restbrewery/domain/Customer$CustomerBuilder.class
+ch/finecloud/restbrewery/domain/BeerStyleEnum.class
+ch/finecloud/restbrewery/domain/Beer$BeerBuilder.class
+ch/finecloud/restbrewery/bootstrap/BeerLoader.class
+ch/finecloud/restbrewery/RestfulBreweryApplication.class

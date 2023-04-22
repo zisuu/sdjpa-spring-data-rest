@@ -1,0 +1,6 @@
+/Users/Dave/IdeaProjects/sdjpa-spring-data-rest/src/main/java/ch/finecloud/restbrewery/repositories/BeerRepository.java
+/Users/Dave/IdeaProjects/sdjpa-spring-data-rest/src/main/java/ch/finecloud/restbrewery/domain/BeerStyleEnum.java
+/Users/Dave/IdeaProjects/sdjpa-spring-data-rest/src/main/java/ch/finecloud/restbrewery/bootstrap/BeerLoader.java
+/Users/Dave/IdeaProjects/sdjpa-spring-data-rest/src/main/java/ch/finecloud/restbrewery/domain/Beer.java
+/Users/Dave/IdeaProjects/sdjpa-spring-data-rest/src/main/java/ch/finecloud/restbrewery/domain/Customer.java
+/Users/Dave/IdeaProjects/sdjpa-spring-data-rest/src/main/java/ch/finecloud/restbrewery/RestfulBreweryApplication.java
